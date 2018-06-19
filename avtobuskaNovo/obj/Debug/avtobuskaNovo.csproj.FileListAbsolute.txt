@@ -1,0 +1,16 @@
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\bin\Debug\avtobuskaNovo.exe.config
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\bin\Debug\avtobuskaNovo.exe
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\bin\Debug\avtobuskaNovo.pdb
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.csprojResolveAssemblyReference.cache
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.Form1.resources
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.NovaRelacija.resources
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.Properties.Resources.resources
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.Relacija.resources
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.csproj.GenerateResource.cache
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.csproj.CoreCompileInputs.cache
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.exe
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.pdb
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.Nov_Prevoznik.resources
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.Prevoznici.resources
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.Prodazba.resources
+C:\Users\Irina Stojanoska\source\repos\avtobuskaNovo\avtobuskaNovo\obj\Debug\avtobuskaNovo.Note.resources
